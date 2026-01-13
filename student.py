@@ -17,7 +17,7 @@ def main():
     print("=== Student Grade Management System ===")
 
     # Static data for CI/CD (no input)
-    name = "bhimangouda"
+    name = "veeresh"
     department = "bca"
     semester = "3"
 
